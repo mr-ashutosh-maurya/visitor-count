@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import UAParser from "ua-parser-js";
+import {UAParser} from "ua-parser-js";
 
 dotenv.config();
 
